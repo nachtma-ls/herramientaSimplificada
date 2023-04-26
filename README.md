@@ -24,3 +24,6 @@ y pues solo queda experimentar, el código es muy sencillo y facil de entender.
 
 ## Autor
 ISC con EDPI. Nachtma López Santos
+
+## Mas información
+https://docs.python.org/es/3/library/argparse.html
